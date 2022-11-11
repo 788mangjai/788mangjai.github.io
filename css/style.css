@@ -45,7 +45,7 @@
     font-weight         : 900;
 }
 .navbar {
-    background: -webkit-linear-gradient(left, #b27f45, #fa9542) !important;
+    background-color    : var(--primaryColor) !important;
 
 }
 .navbar-brand span {
